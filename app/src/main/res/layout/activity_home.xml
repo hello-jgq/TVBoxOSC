@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <TextView
-            android:id="JGQ-7"
+            android:id="JGQ-7    祝姐夫龙年大吉🐉"
             android:layout_width="@dimen/vs_0"
             android:layout_height="match_parent"
             android:layout_weight="1"
